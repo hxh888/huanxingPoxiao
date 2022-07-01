@@ -1,12 +1,12 @@
 <template>
-  <div class="hello">
-    首页
+  <div class="table">
+    合并单元格
   </div>
 </template>
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'table',
   data () {
     return {
       checkBtn: '上海',
